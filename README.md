@@ -7,6 +7,7 @@ This script generates a report containing information about the system's disks, 
 1. Install the required packages:
 
 ```bash
+sudo apt install libpython3.X-dev
 pip install -r requirements.txt
 ```
 
